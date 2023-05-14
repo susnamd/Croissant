@@ -1,0 +1,36 @@
+body {
+  background-color: #faf3dd;
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+  font-size: 45px;
+  font-weight: 800;
+}
+p {
+  margin: 10px 80px;
+  font-size: 18px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  background-color: #dda15e;
+  color: #212529;
+  padding: 10px 30px;
+  border-radius: 10px;
+  margin: 10px;
+}
+a:hover {
+  background-color: #bd8a50;
+  color: #fff;
+}
+img {
+  display: block;
+  margin: 30px auto;
+  max-width: 80%;
+  border-radius: 20px;
+}
+.links {
+  text-align: center;
+  margin: 50px;
+}
